@@ -11,3 +11,5 @@ Este repositório reúne as atividades e os conteúdos desenvolvidos ao longo da
 ## Arquivos
 
 - [Aula 06 - Imputação e Normalização de Dados](./jupyters/Aula_06_Unidade_2.ipynb)
+- [Aula 07 - Estatística Inferencial](./jupyters/Aula_07_Unidade_2.ipynb)
+- [Aula 08 - Testes Paramétricos](./jupyters/Aula_08_Unidade_2.ipynb)
